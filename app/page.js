@@ -52,7 +52,7 @@ function HeaderSection() {
           </h1>
 
           <p className="text-lg sm:text-xl text-gray-700 dark:text-gray-300 max-w-2xl mx-auto mt-2 font-medium">
-            quickly <span className="text-indigo-600 dark:text-indigo-400 font-semibold">remove backgrounds</span> with <span className="text-pink-600 dark:text-pink-400 font-semibold">accuracy</span> and <span className="text-green-600 dark:text-green-400 font-semibold">privacy</span>.
+            quickly <span className="text-indigo-600 dark:text-indigo-400 font-semibold">remove backgrounds</span> with <span className="text-pink-600 dark:text-pink-400 font-semibold">accuracy</span> and <span className="text-green-600 dark:text-green-400 font-semibold">privacy</span>
           </p>
 
       <div className="mt-6 grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-md mx-auto">

@@ -77,7 +77,7 @@ export default function Footer() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://github.com/sudo-self" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 dark:hover:text-blue-400 transition">
+                  <a href="https://github.com/sudo-self/ai-bg-removal" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 dark:hover:text-blue-400 transition">
                     Source Code
                   </a>
                 </li>
@@ -88,14 +88,14 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-gray-200 dark:border-gray-700 flex flex-col md:flex-row justify-between items-center text-gray-500 dark:text-gray-400 text-xs">
           <p>
-            © <span className="current-year">2023</span> JesseJesse.com
+            © <span className="current-year">2023</span>bg.JesseJesse.com
           </p>
           <div className="mt-3 md:mt-0 text-center md:text-right">
             <a href="https://bg.jessejesse.com" target="_blank" rel="noopener noreferrer" className="hover:underline">
               bg.JesseJesse.com
             </a>{' '}
             is lisenced{' '}
-            <a href="https://github.com/sudo-self" target="_blank" rel="noopener noreferrer" className="hover:underline">
+            <a href="https://github.com/sudo-self/ai-bg-removal" target="_blank" rel="noopener noreferrer" className="hover:underline">
               CC
             </a>{' '}
             is marked{' '}

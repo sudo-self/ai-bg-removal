@@ -62,8 +62,8 @@ export default function Footer() {
               <h4 className="font-semibold uppercase mb-2 tracking-wide">Developer</h4>
               <ul className="space-y-1">
                 <li>
-                  <a href="https://jessejesse.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 dark:hover:text-blue-400 transition">
-                    About Me
+                  <a href="https://bg.jessejesse.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 dark:hover:text-blue-400 transition">
+                    JesseJesse
                   </a>
                 </li>
                 <li>

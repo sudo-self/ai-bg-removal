@@ -4,8 +4,8 @@ import './globals.css';
 import Footer from '../Components/Footer';
 
 export const metadata = {
-  title: 'Background Remover - Instant AI-Powered Tool',
-  description: 'Remove image backgrounds instantly with our AI-powered tool. Free, fast, and high-quality background removal.',
+  title: 'bg.JesseJesse.com - image background removal',
+  description: 'Remove image backgrounds instantly with privacy. Free, fast, and high-quality background removal.',
 };
 
 export default function RootLayout({ children }) {

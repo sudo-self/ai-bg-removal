@@ -19,7 +19,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-6 py-10">
         <div className="flex flex-col md:flex-row md:justify-between md:items-start space-y-8 md:space-y-0">
           <div className="md:w-2/3 text-gray-700 dark:text-gray-300">
-            <h3 className="text-xl font-semibold mb-2 text-gray-900 dark:text-white">Background Removal Tool</h3>
+            <h3 className="text-xl font-semibold mb-2 text-gray-900 dark:text-white">bg.JesseJesse.com</h3>
             <p className="text-sm leading-relaxed">
               AI-powered image background removal presented by Next.js. Upload an image, remove the background, and export with confidence.
               This tool processes everything in browser — no uploads or data storage, so your images remain private.
@@ -42,7 +42,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <a href="https://img.ly/showcases/cesdk/background-removal/web" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 dark:hover:text-blue-400 transition">
-                    @imgly
+                    img.ly
                   </a>
                 </li>
                 <li>
@@ -88,7 +88,7 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-gray-200 dark:border-gray-700 flex flex-col md:flex-row justify-between items-center text-gray-500 dark:text-gray-400 text-xs">
           <p>
-            © <span className="current-year">2023</span>&nbsp;&nbsp;bg.JesseJesse.com
+            © <span className="current-year">2023</span>&nbsp;JesseJesse.com
           </p>
           <div className="mt-3 md:mt-0 text-center md:text-right">
             <a href="https://bg.jessejesse.com" target="_blank" rel="noopener noreferrer" className="hover:underline">

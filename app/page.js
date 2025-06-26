@@ -34,14 +34,14 @@ export default function Home() {
         <meta name="keywords" content={META_DATA.keywords} />
         <meta name="author" content={META_DATA.author} />
 
-
+        {/* Open Graph / Facebook */}
         <meta property="og:type" content={META_DATA.ogType} />
         <meta property="og:url" content={META_DATA.url} />
         <meta property="og:title" content={META_DATA.ogTitle} />
         <meta property="og:description" content={META_DATA.ogDescription} />
         <meta property="og:image" content={META_DATA.image} />
 
-     
+        {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content={META_DATA.url} />
         <meta property="twitter:title" content={META_DATA.ogTitle} />
@@ -82,7 +82,7 @@ function HeaderSection() {
   );
 }
 
-function FeatureCard({ label, value }: { label: string; value: string }) {
+function FeatureCard({ label, value }) {
   return (
     <div className="bg-white dark:bg-gray-800 p-4 rounded-lg shadow-sm flex flex-col items-center text-center transition-transform duration-200 hover:scale-105 hover:shadow-md">
       <div className="text-2xl font-semibold text-indigo-600 dark:text-indigo-400 mb-1">
@@ -94,3 +94,4 @@ function FeatureCard({ label, value }: { label: string; value: string }) {
     </div>
   );
 }
+

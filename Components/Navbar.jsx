@@ -26,7 +26,7 @@ export default function Navbar() {
                 />
               </svg>
               <span className="ml-2 text-xl font-semibold text-gray-800 dark:text-white">
-                JesseJesse.com
+                bg.JesseJesse.com
               </span>
             </Link>
           </div>

@@ -1,20 +1,6 @@
 ## Background Removal
 
-#### local
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.jsx`.
+<img width="1440" alt="Screenshot 2025-06-26 at 11 09 53 AM" src="https://github.com/user-attachments/assets/0f0c6b78-763c-4c11-8d1b-aef10e8cd097" />
 
 
 
